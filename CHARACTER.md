@@ -6,7 +6,7 @@
 - Gender: female
 - Market: United States
 - Life stage: independent woman in her late 20s, building a better life
-- Occupation: modern, common office/creative professional role; keep it relatable rather than status-focused
+- Occupation: not yet locked; must remain relatable rather than status-focused
 
 ## 2. Positioning
 
@@ -23,6 +23,8 @@ She should feel like a woman the target audience could realistically know, relat
 ## 3. Core vibe
 
 **Attractive + Relatable + Aspirational + Slightly Vulnerable**
+
+The visual target is attention-grabbing enough to stop the scroll, but still relatable enough to attract the intended female 25–30 audience and retain commercial fit for beauty/wellness/lifestyle content.
 
 ### Attractive
 - Noticeably attractive
@@ -51,11 +53,11 @@ Examples of the emotional tone:
 - "I realized I've been neglecting myself."
 - "I don't have my life figured out either."
 
-## 4. Appearance direction
+## 4. Appearance direction — current visual baseline
 
 Target visual age: approximately 27–29.
 
-Initial appearance direction:
+Current approved visual direction:
 - White/Caucasian American appearance
 - Natural healthy skin with subtle real texture
 - Attractive but not hyper-perfect/model-like
@@ -65,11 +67,16 @@ Initial appearance direction:
 - Natural makeup
 - Expressive eyes and natural smile
 
+The first generated reference strongly matches the intended direction and is approved as the **visual baseline for V1**, with one deliberate adjustment: reduce the polished/Instagram-influencer feeling by roughly 10–15% in future generations.
+
 Visual objective:
 
 > She should look like a real attractive woman someone could realistically meet in the United States, not an Instagram supermodel or an obviously AI-perfect character.
 
-Exact facial identity, hair length, styling, and reference images are still subject to the visual character-design phase and must remain consistent once locked.
+### Important
+The first reference generation contained inferred details such as "Marketing Manager", 5'6" height, and brown/hazel eyes. These were NOT previously locked and must not be treated as authoritative character facts until explicitly decided.
+
+Exact facial identity, hair length, styling, and reference images will be locked during the next visual character-design step.
 
 ## 5. Fashion
 
@@ -187,9 +194,12 @@ Character → Lifestyle → Habits → Beauty/Wellness → Relevant Products
 - Keep the visual world recognizable across videos.
 - Do not gradually turn the character into a luxury influencer, health guru, or generic model without explicitly versioning the character.
 - Any major character change should create a new character version (for example V2) and be recorded in `CHANGELOG.md`.
+- Do not treat details accidentally inferred by image generation as authoritative unless explicitly approved.
 
 ## 12. Status
 
 **Character V1 is the current baseline.**
 
-The next step is detailed visual character design and reference generation. Do not treat the initial appearance bullets as a final face reference until the visual identity is explicitly locked.
+The visual direction is approved, but the exact facial reference and several biographical details are not yet fully locked.
+
+Next step: detailed visual identity lock — face, hair, body, styling, occupation, living situation, personality quirks, and voice.
