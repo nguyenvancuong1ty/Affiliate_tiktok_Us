@@ -293,34 +293,43 @@ Do not use fabricated personal claims or medical claims merely to increase engag
 GitHub:
 `https://github.com/nguyenvancuong1ty/Affiliate_tiktok_Us/blob/main/character/character_v1_moodboard.png`
 
-This image is the authoritative visual identity anchor for Character V1.1. It contains the approved face reference, full-body reference, 3/4 reference, expression references, outfit direction, lifestyle/environment direction, scene/lighting direction, and camera/framing direction.
+This image remains the authoritative concept-level visual anchor for Character V1.1.
+
+The repository now also contains the approved production reference pack. The individual files are the working visual references used when generating new assets; the moodboard remains the canonical overview and must not be replaced without explicit approval.
 
 ### Identity priority
-When generating or evaluating new character assets, use the visual anchor in this order of priority:
 
-1. Facial identity and facial proportions
-2. Hair color, length, texture, and general styling
-3. Apparent age
-4. Body proportions
-5. Overall styling and attainable fashion direction
-6. Scene, lighting, and camera language
+When generating or evaluating new character assets, use the references in this order:
 
-Do not redesign the face from text alone when the visual anchor is available.
+1. Facial identity and facial proportions — `character/closeup.png`
+2. Hair identity — `character/hair_reference.png.png`
+3. Body proportions and silhouette — `character/fullboy.png`
+4. Front / 3/4 / side geometry — `character/front.png`, `character/three_quarter.png`, `character/side.png`
+5. Full turnaround — `character/turnaround.png`
+6. Expressions — `character/expressions.png`
+7. Overall styling, environment, lighting and camera language — `character/character_v1_moodboard.png`
 
-Do not treat a newly generated image as a replacement master merely because it looks attractive. Any replacement requires explicit approval and a new character version if identity changes.
+Do not redesign the face from text alone when these visual references are available.
 
-## 16. Master-reference pack status
+Do not treat a newly generated image as a replacement reference merely because it looks attractive. Any replacement requires explicit approval and a new character version if identity changes.
 
-The moodboard above is the **approved visual identity anchor** and is already committed to the repository.
+## 16. Production reference pack — APPROVED
 
-The production reference pack should expand from this anchor to include:
-- Front portrait
-- 3/4 portrait
-- Side profile
-- Full body
-- Neutral expression
-- Natural smile
-- Thoughtful expression
-- Mild surprise/curiosity
+The following files are committed to `character/` and are approved as the Character V1.1 reference pack:
 
-Until those individual master-reference files are generated and explicitly approved, `character/character_v1_moodboard.png` remains the single authoritative visual anchor.
+| File | Role | Status |
+|---|---|---|
+| `closeup.png` | Primary face / close-up identity reference | LOCKED |
+| `fullboy.png` | Full-body proportion and silhouette reference | LOCKED |
+| `front.png` | Front view | LOCKED |
+| `three_quarter.png` | 3/4 view | LOCKED |
+| `side.png` | Side profile | LOCKED |
+| `turnaround.png` | Multi-angle turnaround | LOCKED |
+| `expressions.png` | Expression reference set | LOCKED |
+| `hair_reference.png.png` | Hair identity reference | LOCKED |
+
+These references form the current production baseline. New scene images may vary in pose, outfit, location, lighting and camera angle, but must preserve the locked identity.
+
+`character/CHARACTER_REFERENCE.md` contains the operational reference-pack instructions and generation/QA rules.
+
+Any future identity change must create a new character version rather than silently replacing these files.
