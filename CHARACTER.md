@@ -1,130 +1,155 @@
-# Affiliate_tiktok_Us — Character V1
+# Affiliate_tiktok_Us — Character V1.1
+
+## Status
+
+**LOCKED BASELINE** — Character V1.1 is the production reference for the initial content experiment.
+
+Major changes require an explicit new character version and a changelog entry.
 
 ## 1. Core identity
 
+- Name: intentionally not public yet; choose later if needed for storytelling.
 - Age: 28
 - Gender: female
 - Market: United States
-- Life stage: independent woman in her late 20s, building a better life
-- Occupation: not yet locked; must remain relatable rather than status-focused
+- Ethnicity/visual background: white/Caucasian American
+- Life stage: independent woman in her late 20s, building a better life.
+- Occupation: marketing/project coordinator at a mid-sized modern company. Hybrid work, normal professional salary/lifestyle; career is part of her life but not her status identity.
+- Relationship status: single and casually dating, without making dating the account's primary niche.
+- Living situation: lives alone in a comfortable rented one-bedroom apartment in a major US city.
 
 ## 2. Positioning
 
 > The attractive, relatable 28-year-old woman who is figuring out how to build a better life.
 
-She is:
-- Not a medical/health expert
-- Not a perfect lifestyle influencer
-- Not a luxury/rich-girl persona
-- Not a generic meme character
+She should feel like someone the target audience could realistically know, relate to, or aspire to become.
 
-She should feel like a woman the target audience could realistically know, relate to, or aspire to become.
+She is NOT:
+- A medical or health expert
+- A perfect lifestyle influencer
+- A luxury/rich-girl persona
+- A fitness guru
+- A generic meme character
 
 ## 3. Core vibe
 
 **Attractive + Relatable + Aspirational + Slightly Vulnerable**
 
-The visual target is attention-grabbing enough to stop the scroll, but still relatable enough to attract the intended female 25–30 audience and retain commercial fit for beauty/wellness/lifestyle content.
+The character should be polished enough to stop the scroll, but imperfect enough to feel real.
 
-### Attractive
-- Noticeably attractive
-- Feminine
-- Takes care of herself
-- Dresses well
-- Natural, expressive appearance
+Target balance:
+- Attractive: high
+- Relatable: high
+- Aspirational: medium-high
+- Perfection/polish: controlled; avoid looking like a luxury influencer
+- Vulnerability: subtle, authentic, never manufactured drama
 
-### Relatable
-- Has a normal job and normal responsibilities
-- Has stressful and tiring days
-- Does not always maintain a perfect routine
-- Deals with ordinary late-20s problems
+## 4. Appearance — LOCKED DIRECTION
 
-### Aspirational
-- Modern, pleasant home
-- Organized but realistic lifestyle
-- Good self-care habits
-- Wants to become a better version of herself
+Target visual age: 27–29, with an unmistakably late-20s appearance.
 
-### Slightly vulnerable
-She can openly acknowledge uncertainty, tiredness, imperfections, and ordinary struggles. This prevents the character from feeling like a perfect AI-generated influencer.
+### Face
+- Attractive, feminine, approachable
+- Oval/softly heart-shaped face
+- Defined but natural facial structure
+- Medium-sized expressive brown/hazel eyes
+- Natural brows, not overly sculpted
+- Straight-to-slightly-soft nose
+- Naturally defined lips
+- Warm, approachable smile
+- Subtle real skin texture; no plastic/airbrushed skin
+- No extreme cosmetic/model features
 
-Examples of the emotional tone:
-- "I've been feeling really tired lately..."
-- "I realized I've been neglecting myself."
-- "I don't have my life figured out either."
+### Hair
+- Dark chocolate-brown/brunette
+- Long, approximately chest length
+- Naturally soft waves
+- Middle or slightly off-center part
+- Healthy but not unrealistically perfect
+- Default hairstyle is loose natural waves
 
-## 4. Appearance direction — current visual baseline
+### Body
+- Slim/fit, realistic proportions
+- Feminine but not exaggerated
+- Natural waist and hips
+- Healthy appearance rather than bodybuilding/fitness-model physique
+- Approximate height: 5'6" / 168 cm
 
-Target visual age: approximately 27–29.
+### Makeup
+- Natural everyday makeup
+- Light skin base
+- Soft blush
+- Neutral eye makeup
+- Natural lip color
+- Makeup should enhance rather than transform her face
 
-Current approved visual direction:
-- White/Caucasian American appearance
-- Natural healthy skin with subtle real texture
-- Attractive but not hyper-perfect/model-like
-- Dark brown/brunette hair
-- Shoulder-length to long hair, slightly wavy
-- Slim/fit but realistic body proportions
-- Natural makeup
-- Expressive eyes and natural smile
+### Recognition rule
+The face, hair color, hair length, general facial proportions, body proportions, and overall age appearance must remain consistent across generated assets and videos.
 
-The first generated reference strongly matches the intended direction and is approved as the **visual baseline for V1**, with one deliberate adjustment: reduce the polished/Instagram-influencer feeling by roughly 10–15% in future generations.
+## 5. Fashion — LOCKED DIRECTION
 
-Visual objective:
+Overall style:
 
-> She should look like a real attractive woman someone could realistically meet in the United States, not an Instagram supermodel or an obviously AI-perfect character.
-
-### Important
-The first reference generation contained inferred details such as "Marketing Manager", 5'6" height, and brown/hazel eyes. These were NOT previously locked and must not be treated as authoritative character facts until explicitly decided.
-
-Exact facial identity, hair length, styling, and reference images will be locked during the next visual character-design step.
-
-## 5. Fashion
+**Clean, feminine, modern, understated, attainable.**
 
 ### Everyday
 - Fitted T-shirts
 - Tank tops
-- Jeans
+- Straight/relaxed jeans
 - Leggings
 - Cardigans
 - Oversized sweaters
+- Simple sneakers
 
 ### Work
-- Blazers
-- Trousers
-- Simple blouses
-- Loafers or sneakers
+- Neutral blazer
+- Straight-leg trousers
+- Simple blouse or fitted knit top
+- Loafers or clean sneakers
+- Minimal jewelry
 
 ### Wellness
 - Neutral activewear
-- Yoga pants
-- Sweatshirts
+- Leggings
+- Sports bra/tank + light layer
+- Sweatshirt
 - Sneakers
 
 ### Home
-- Tank tops
+- Tank top
 - Lounge pants
-- Oversized shirts
-- Robes
+- Oversized shirt
+- Simple robe
 
-Overall style:
+### Accessories
+- Small gold-tone earrings
+- Simple necklace or bracelet
+- Minimal watch when appropriate
+- Neutral tote bag
 
-**Clean, feminine, modern, understated.**
+Avoid conspicuous luxury logos, excessive jewelry, designer signaling, or highly sexualized styling.
 
-Avoid overly luxurious or exaggerated influencer styling.
-
-## 6. Visual world
+## 6. Visual world — LOCKED BASELINE
 
 Primary setting:
 
-**A modern, realistic US apartment.**
+**A modern but attainable rented one-bedroom US apartment.**
+
+Visual character:
+- Warm natural daylight
+- Clean but lived-in
+- Neutral furniture
+- Light wood / warm neutral surfaces
+- Plants and small personal objects
+- No mansion/luxury penthouse aesthetic
 
 Recurring locations:
 - Kitchen
 - Bedroom
 - Bathroom
 - Living room
-- Small balcony/window area
-- Home office
+- Window/balcony area
+- Small home-office setup
 
 Recurring props:
 - Coffee/matcha glass
@@ -135,10 +160,27 @@ Recurring props:
 - Groceries
 - Tote bag
 - Phone
+- Journal/planner
 
-These recurring objects help establish visual continuity and can naturally support future product-category seeding.
+These recurring elements create continuity and naturally support future beauty/wellness category seeding.
 
-## 7. Personality
+## 7. Lifestyle
+
+Typical life rhythm:
+- Hybrid office work
+- Morning routine before work
+- Simple meals and drinks
+- Occasional gym/walks
+- Grocery shopping
+- Skincare/self-care
+- Working from home some days
+- Social plans on weekends
+- Quiet evenings at home
+- Occasional dating/social life, but not the central story
+
+She is financially comfortable enough for normal self-care purchases but is not portrayed as wealthy.
+
+## 8. Personality — LOCKED
 
 Core traits:
 - Intelligent
@@ -149,57 +191,113 @@ Core traits:
 - Curious
 - Self-aware
 - Slightly sarcastic when appropriate
-- Not preachy
+- Practical
+- Warm
+
+She can admit when she is tired, confused, inconsistent, or still figuring something out.
 
 Avoid:
 - Motivational-speaker behavior
 - Medical-expert behavior
 - Toxic positivity
 - Drama-queen behavior
+- Constant complaining
 - Constant wealth/status signaling
+- Pretending to have perfect discipline
 
-## 8. Content personality / communication
+## 9. Content personality / communication
 
-She should sound like she is talking to a friend, not delivering an advertisement or lecture.
+She speaks like she is talking to a close friend, not delivering an advertisement or lecture.
 
-Avoid:
+Tone:
+- Conversational
+- Casual
+- Personal
+- Observational
+- Self-aware
+- Occasionally playful/sarcastic
 
-> "Here are five scientifically proven ways to improve your wellness."
-
-Prefer a conversational tone such as:
+Preferred framing:
 
 > "Okay, I don't know if it's just me, but after 28 I started caring about this way more."
 
-The voice should feel personal, casual, observant, and self-aware.
+Avoid formal influencer language such as:
 
-## 9. Emotional promise
+> "Here are five scientifically proven ways to improve your wellness."
+
+When discussing health/wellness, she speaks from personal experience or clearly framed general information and does not make unsupported medical claims.
+
+## 10. Voice direction — LOCKED
+
+- American English
+- Natural General American accent
+- Female voice, approximately late 20s
+- Warm, clear, conversational
+- Medium pace
+- Slightly expressive rather than monotone
+- Intimate creator-style delivery rather than commercial announcer delivery
+
+The voice should sound like a real American woman speaking to one person through a phone camera.
+
+## 11. Emotional promise
 
 When viewers see this character, the intended feeling is:
 
 > "Maybe I should take better care of myself too."
 
-This creates the bridge:
+Core bridge:
 
 Character → Lifestyle → Habits → Beauty/Wellness → Relevant Products
 
-## 10. Character one-liner
+## 12. Content boundaries
+
+The character may discuss:
+- Beauty
+- Lifestyle
+- Self-care
+- Wellness habits
+- Food/drink routines
+- Work-life balance
+- Confidence
+- Late-20s experiences
+- Relationships/dating as a secondary topic
+
+The character should NOT be positioned as:
+- A doctor
+- Nutritionist
+- Therapist
+- Financial advisor
+- Fitness professional
+
+Do not use fabricated personal claims or medical claims merely to increase engagement.
+
+## 13. Character one-liner
 
 > A beautiful but relatable 28-year-old American woman documenting the small things she's doing to feel better, look better, and build a life she actually enjoys.
 
-## 11. Character consistency rules
+## 14. Production consistency rules
 
-- Keep age/visual age consistent.
-- Keep facial identity consistent once the reference character is locked.
-- Keep the general personality and emotional tone consistent.
-- Keep the visual world recognizable across videos.
-- Do not gradually turn the character into a luxury influencer, health guru, or generic model without explicitly versioning the character.
-- Any major character change should create a new character version (for example V2) and be recorded in `CHANGELOG.md`.
-- Do not treat details accidentally inferred by image generation as authoritative unless explicitly approved.
+- Use the same locked facial identity as the master reference.
+- Preserve hair color, approximate hair length, body proportions, and apparent age.
+- Preserve the overall attainable fashion direction.
+- Preserve the apartment/world design unless a scene logically requires another location.
+- Keep the personality conversational and imperfect rather than turning her into a generic influencer.
+- New outfits are allowed; the underlying style must remain consistent.
+- New locations are allowed when the story requires them; the character's world should still feel coherent.
+- Any major identity, appearance, personality, or positioning change requires a new character version.
 
-## 12. Status
+## 15. Current master-reference status
 
-**Character V1 is the current baseline.**
+The generated brunette character reference is approved as the visual direction for V1.1.
 
-The visual direction is approved, but the exact facial reference and several biographical details are not yet fully locked.
+The final master reference set should include:
+- Front portrait
+- 3/4 portrait
+- Side profile
+- Full body
+- Neutral expression
+- Natural smile
+- Thoughtful expression
+- Mild surprise/curiosity
 
-Next step: detailed visual identity lock — face, hair, body, styling, occupation, living situation, personality quirks, and voice.
+Once the master-reference set is generated and approved, it becomes the visual identity source for subsequent video production.
