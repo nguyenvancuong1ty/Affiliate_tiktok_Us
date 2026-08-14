@@ -286,11 +286,34 @@ Do not use fabricated personal claims or medical claims merely to increase engag
 - New locations are allowed when the story requires them; the character's world should still feel coherent.
 - Any major identity, appearance, personality, or positioning change requires a new character version.
 
-## 15. Current master-reference status
+## 15. Official visual identity anchor — LOCKED
 
-The generated brunette character reference is approved as the visual direction for V1.1.
+**Official visual anchor:** `character/character_v1_moodboard.png`
 
-The final master reference set should include:
+GitHub:
+`https://github.com/nguyenvancuong1ty/Affiliate_tiktok_Us/blob/main/character/character_v1_moodboard.png`
+
+This image is the authoritative visual identity anchor for Character V1.1. It contains the approved face reference, full-body reference, 3/4 reference, expression references, outfit direction, lifestyle/environment direction, scene/lighting direction, and camera/framing direction.
+
+### Identity priority
+When generating or evaluating new character assets, use the visual anchor in this order of priority:
+
+1. Facial identity and facial proportions
+2. Hair color, length, texture, and general styling
+3. Apparent age
+4. Body proportions
+5. Overall styling and attainable fashion direction
+6. Scene, lighting, and camera language
+
+Do not redesign the face from text alone when the visual anchor is available.
+
+Do not treat a newly generated image as a replacement master merely because it looks attractive. Any replacement requires explicit approval and a new character version if identity changes.
+
+## 16. Master-reference pack status
+
+The moodboard above is the **approved visual identity anchor** and is already committed to the repository.
+
+The production reference pack should expand from this anchor to include:
 - Front portrait
 - 3/4 portrait
 - Side profile
@@ -300,4 +323,4 @@ The final master reference set should include:
 - Thoughtful expression
 - Mild surprise/curiosity
 
-Once the master-reference set is generated and approved, it becomes the visual identity source for subsequent video production.
+Until those individual master-reference files are generated and explicitly approved, `character/character_v1_moodboard.png` remains the single authoritative visual anchor.
